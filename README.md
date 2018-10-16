@@ -13,3 +13,6 @@ https://youtu.be/G8a7ou1wLBw
 
 Real-time artificial neural network regression of sensor data as sensor is exposed to changing levels of relative humidity.
 https://youtu.be/qShslUHae9w
+
+The YouTube channel which holds some of my science and engineering visualizations: 
+https://www.youtube.com/channel/UCqGGQcXtgbpwpJbayYol0xA
