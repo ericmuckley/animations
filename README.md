@@ -1,4 +1,4 @@
-# Animations
+# Videos
 
 This repository contains links to original science and engineering animations.
 
