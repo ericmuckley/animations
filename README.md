@@ -10,3 +10,6 @@ https://youtu.be/b6TPW9VnTuk
 
 Real-time peak spectral processing and analysis which includes peak detection, peak tracking, peak fitting, and exctraction of peak parameters over time to enable display of peak parameter evolution.
 https://youtu.be/G8a7ou1wLBw
+
+Real-time artificial neural network regression of sensor data as sensor is exposed to changing levels of relative humidity.
+https://youtu.be/qShslUHae9w
