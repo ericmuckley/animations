@@ -2,6 +2,9 @@
 
 This repository contains links to original science and engineering animations.
 
+Animation of viscoelastic film under shear stress when shear modulus of film is changing in time.
+https://youtu.be/Djehh3pB_sM
+
 Real-time machine learning and evolution of classification boundaries using support vector machines and decision trees. 
 https://youtu.be/iIOD1UxuxVo
 
