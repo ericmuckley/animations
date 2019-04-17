@@ -2,6 +2,9 @@
 
 This repository contains links to original science and engineering animations.
 
+Demonstration of autonomous materials chracterization platform performing sensor-testing experiments.
+https://www.youtube.com/watch?v=Xxsnc-YHdO0
+
 Animation of viscoelastic film under shear stress when shear modulus of film is changing in time.
 https://youtu.be/Djehh3pB_sM
 
@@ -22,7 +25,8 @@ https://youtu.be/qShslUHae9w
 
 
 Solution of system of nonlinear multivariate equations with real-time extraction and visulaization of solution parameters over time. 
-https://youtu.be/HgbRVpLLllg
+https://youtu.be/HgbRVpLLll
+
 
 
 The YouTube channel which holds some of my science and engineering visualizations: 
